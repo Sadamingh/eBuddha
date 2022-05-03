@@ -1,5 +1,5 @@
 var isFlower = false;
-$('.flower').fadeOut(10);
+$('.flower').remove();
 
 function getFlower() {
 
