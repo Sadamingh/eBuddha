@@ -22,6 +22,23 @@ body, html {
 
 .btn {
   font-family: 'Radio Canada', sans-serif;
-  border-radius: 20px !important;
+  border-radius: 40px !important;
   border-color: white;
+}
+
+.bucket {
+  margin-top: 10%;
+  margin-bottom: 6%;
+  position: relative;
+  text-align: center;
+}
+
+.btn-long {
+  padding-left: 50px !important;
+  padding-right: 50px !important;
+}
+
+.flower {
+  padding-top: 27%;
+  text-align: center;
 }
