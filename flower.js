@@ -1,5 +1,8 @@
 var isFlower = false;
-$('.flower').remove();
+
+$(document).ready(function() {
+  $('.flower').hide();
+});
 
 function getFlower() {
 
