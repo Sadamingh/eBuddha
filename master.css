@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada:wght@300&display=swap');
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+
+  margin: 0;
+
+  /* The image used */
+  background-image: url("background.gif");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn {
+  font-family: 'Radio Canada', sans-serif;
+  border-radius: 20px !important;
+  border-color: white;
+}

@@ -1,0 +1,2 @@
+- Illustration by [Ankita Bhasme](https://dribbble.com/shots/13892873-Buddha-in-a-lily-pond)
+- Music by [John Kensy](https://pixabay.com/users/john_kensy_music-26026995/?tab=audio&utm_source=link-attribution&utm_medium=referral&utm_campaign=audio&utm_content=28066).
